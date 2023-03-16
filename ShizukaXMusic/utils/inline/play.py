@@ -50,12 +50,6 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             ),
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 💌", url=f"{SUPPORT_GROUP}"),
         ],
-        [
-            InlineKeyboardButton(
-                text=f"☀ sʜɪᴢᴜᴋᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ☀",
-                url=f"https://t.me/itz_Shizuka_Robot",
-            )
-        ],
     ]
     return buttons
 
