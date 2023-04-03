@@ -79,7 +79,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("Best_FriendsFor_Ever")
+                await self.two.join_chat("Star_X_Support")
                 await self.two.join_chat("Star_X_Network")
             except:
                 pass
@@ -110,7 +110,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("Best_FriendsFor_Ever")
+                await self.two.join_chat("Star_X_Support")
                 await self.three.join_chat("Star_X_Network")
             except:
                 pass
@@ -141,7 +141,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("Best_FriendsFor_Ever")
+                await self.two.join_chat("Star_X_Support")
                 await self.four.join_chat("Star_X_Network")
             except:
                 pass
@@ -172,7 +172,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("Best_FriendsFor_Ever")
+                await self.two.join_chat("Star_X_Support")
                 await self.five.join_chat("Star_X_Network")
             except:
                 pass
