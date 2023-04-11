@@ -40,7 +40,7 @@ async def init():
     await userbot.start()
     await Shizuka.start()
     try:
-        await Shizuka.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
+        await Shizuka.stream_call("https://graph.org/file/0b4761961d6bf188e59c8.jpg")
     except NoActiveGroupCall:
         LOGGER("ShizukaXMusic").error(
             "[ERROR] - \n\nTurn on group voice chat and don't put it off otherwise I'll stop working thanks."
