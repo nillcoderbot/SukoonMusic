@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ 𝗦𝗨𝗞𝗢𝗢𝗡 𝗠𝗨 ❤️</b></h1>
+<h1 align="center"><b>❤️ 𝗦𝗨𝗞𝗢𝗢𝗡 𝗠𝗨𝗦𝗜𝗖 ❤️</b></h1>
 
 <h4 align="center">Sukoon Music A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
